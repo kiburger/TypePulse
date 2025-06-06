@@ -24,7 +24,7 @@
 
 ## Try It Out
 
-[Play TypePulse](https://rui-23.github.io/TypePulse/)
+[Play TypePulse](https://kiburger.github.io/TypePulse/)
 
 ---
 
